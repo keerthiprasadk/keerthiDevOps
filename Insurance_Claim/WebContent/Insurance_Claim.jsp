@@ -204,7 +204,7 @@ body{font-family:"Arial"}
 					<td></td>
 				</tr>
 
-	  <!--Loss Description Field AddDemo- Appworks Demo ----------------------------------- begin HERE -->
+	  <!--Loss Description Field AddDemo- Appworks Demo ---------------------------------------- begin HERE -->
 
 
 		 		<tr style="background-color:yellow">
