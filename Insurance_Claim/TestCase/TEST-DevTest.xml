@@ -81,7 +81,7 @@
     <property name="ant.project.invoked-targets" value="DevTest" />
   </properties>
   <testcase classname="DevTest" name="test" time="14.684" />
-  <system-out><![CDATA[http://cads-insurance-dev.elasticbeanstalk.com/Insurance_Claim.jsp
+  <system-out><![CDATA[http://cads-insurance-dev.ap-southeast-2.elasticbeanstalk.com/Insurance_Claim.jsp
 Selenium Test Passed
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
